@@ -1,0 +1,20 @@
+.navbar{
+    height: 80px;
+    background: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 140px;
+}
+.nav-items{
+    display: flex;
+    gap: 32px;
+}
+.nav-items > a{
+    color: #fff;
+    font-size: 17px;
+    text-decoration: none;
+}
+.nav-items > a:hover{
+    color: #FF9900;
+}
